@@ -1,0 +1,544 @@
+[{
+  "id": "Z43", "text": "ordered sauce order table chicken meal salad", "data": {"name": "Z43", "level": 4, "percentage": 0.217}, "children": [{
+      "id": "Z38", "text": "pork bbq bite sandwich sushi roll rolls", "data": {"name": "Z38", "level": 3, "percentage": 0.04}, "children": [{
+          "id": "Z219", "text": "sandwich bite grab sandwiches quick turkey tastes", "data": {"name": "Z219", "level": 2, "percentage": 0.058}, "children": [{
+              "id": "Z162", "text": "bite grab quick tastes walking bucks total", "data": {"name": "Z162", "level": 1, "percentage": 0.027}, "children": []
+            }, {
+              "id": "Z161", "text": "sandwich sandwiches turkey", "data": {"name": "Z161", "level": 1, "percentage": 0.024}, "children": []
+            }]
+        }, {
+          "id": "Z226", "text": "sushi roll rolls chef japanese stuffed sauces", "data": {"name": "Z226", "level": 2, "percentage": 0.032}, "children": [{
+              "id": "Z178", "text": "chef japanese sauces korean limited", "data": {"name": "Z178", "level": 1, "percentage": 0.039}, "children": []
+            }, {
+              "id": "Z180", "text": "stuffed happy-hour hungry baked cocktails strong treat", "data": {"name": "Z180", "level": 1, "percentage": 0.05}, "children": []
+            }, {
+              "id": "Z181", "text": "california split date arizona wings world missing", "data": {"name": "Z181", "level": 1, "percentage": 0.095}, "children": []
+            }, {
+              "id": "Z179", "text": "sushi roll rolls", "data": {"name": "Z179", "level": 1, "percentage": 0.026}, "children": []
+            }]
+        }, {
+          "id": "Z222", "text": "expected seat combo avocado black seats cafe", "data": {"name": "Z222", "level": 2, "percentage": 0.067}, "children": [{
+              "id": "Z169", "text": "expected combo cafe corner wow city fill", "data": {"name": "Z169", "level": 1, "percentage": 0.143}, "children": []
+            }, {
+              "id": "Z168", "text": "seat avocado black seats list quickly corn", "data": {"name": "Z168", "level": 1, "percentage": 0.065}, "children": []
+            }]
+        }, {
+          "id": "Z220", "text": "pork bbq sides ribs mac-cheese pulled", "data": {"name": "Z220", "level": 2, "percentage": 0.018}, "children": [{
+              "id": "Z164", "text": "bbq sides ribs mac-cheese", "data": {"name": "Z164", "level": 1, "percentage": 0.013}, "children": []
+            }, {
+              "id": "Z163", "text": "pulled pork", "data": {"name": "Z163", "level": 1, "percentage": 0.032}, "children": []
+            }]
+        }, {
+          "id": "Z221", "text": "options veggies vegetarian veggie option vegan healthy", "data": {"name": "Z221", "level": 2, "percentage": 0.042}, "children": [{
+              "id": "Z166", "text": "veggies vegetarian veggie", "data": {"name": "Z166", "level": 1, "percentage": 0.009}, "children": []
+            }, {
+              "id": "Z165", "text": "healthy easily fast-food market charlotte cheaper double", "data": {"name": "Z165", "level": 1, "percentage": 0.051}, "children": []
+            }, {
+              "id": "Z167", "text": "options option vegan sort", "data": {"name": "Z167", "level": 1, "percentage": 0.035}, "children": []
+            }]
+        }, {
+          "id": "Z225", "text": "thai pad hit miss pour les spot", "data": {"name": "Z225", "level": 2, "percentage": 0.02}, "children": [{
+              "id": "Z176", "text": "pad thai", "data": {"name": "Z176", "level": 1, "percentage": 0.016}, "children": []
+            }, {
+              "id": "Z175", "text": "hit miss spot", "data": {"name": "Z175", "level": 1, "percentage": 0.025}, "children": []
+            }, {
+              "id": "Z174", "text": "pour les son", "data": {"name": "Z174", "level": 1, "percentage": 0.004}, "children": []
+            }, {
+              "id": "Z177", "text": "music live loud", "data": {"name": "Z177", "level": 1, "percentage": 0.045}, "children": []
+            }]
+        }, {
+          "id": "Z224", "text": "salon nail hair nails", "data": {"name": "Z224", "level": 2, "percentage": 0.025}, "children": [{
+              "id": "Z172", "text": "hair salon", "data": {"name": "Z172", "level": 1, "percentage": 0.027}, "children": []
+            }, {
+              "id": "Z173", "text": "nail nails", "data": {"name": "Z173", "level": 1, "percentage": 0.013}, "children": []
+            }]
+        }, {
+          "id": "Z223", "text": "und der das ist sehr ich nicht", "data": {"name": "Z223", "level": 2, "percentage": 0.006}, "children": [{
+              "id": "Z170", "text": "war man guys moving stuff move moved", "data": {"name": "Z170", "level": 1, "percentage": 0.012}, "children": []
+            }, {
+              "id": "Z171", "text": "und der das ist sehr die ich", "data": {"name": "Z171", "level": 1, "percentage": 0.006}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z39", "text": "ordered order table meal salad cheese side", "data": {"name": "Z39", "level": 3, "percentage": 0.189}, "children": [{
+          "id": "Z227", "text": "hot waitress appetizer cold bill brought inside", "data": {"name": "Z227", "level": 2, "percentage": 0.149}, "children": [{
+              "id": "Z183", "text": "appetizer waitress bill brought empty entree paid", "data": {"name": "Z183", "level": 1, "percentage": 0.088}, "children": []
+            }, {
+              "id": "Z184", "text": "hot cold inside salty warm soft pretty-good", "data": {"name": "Z184", "level": 1, "percentage": 0.137}, "children": []
+            }, {
+              "id": "Z182", "text": "ingredients prepared food-good service-good quality-food lovely incredible", "data": {"name": "Z182", "level": 1, "percentage": 0.107}, "children": []
+            }]
+        }, {
+          "id": "Z229", "text": "tables eating ate kitchen plates orders serving", "data": {"name": "Z229", "level": 2, "percentage": 0.084}, "children": [{
+              "id": "Z189", "text": "eating ate plates orders sitting finished fat", "data": {"name": "Z189", "level": 1, "percentage": 0.065}, "children": []
+            }, {
+              "id": "Z188", "text": "tables kitchen serving chairs", "data": {"name": "Z188", "level": 1, "percentage": 0.03}, "children": []
+            }]
+        }, {
+          "id": "Z228", "text": "ordered order table served server seated plate", "data": {"name": "Z228", "level": 2, "percentage": 0.136}, "children": [{
+              "id": "Z186", "text": "seated plate hostess", "data": {"name": "Z186", "level": 1, "percentage": 0.038}, "children": []
+            }, {
+              "id": "Z187", "text": "served serve topped mushrooms rich", "data": {"name": "Z187", "level": 1, "percentage": 0.07}, "children": []
+            }, {
+              "id": "Z185", "text": "ordered order table server", "data": {"name": "Z185", "level": 1, "percentage": 0.145}, "children": []
+            }]
+        }, {
+          "id": "Z232", "text": "meal side eat bread dessert bit steak", "data": {"name": "Z232", "level": 2, "percentage": 0.13}, "children": [{
+              "id": "Z194", "text": "meal side eat bread bit steak potatoes", "data": {"name": "Z194", "level": 1, "percentage": 0.118}, "children": []
+            }, {
+              "id": "Z196", "text": "dessert chocolate main cake reservation fruit", "data": {"name": "Z196", "level": 1, "percentage": 0.034}, "children": []
+            }, {
+              "id": "Z195", "text": "attentive pleasant surprise", "data": {"name": "Z195", "level": 1, "percentage": 0.015}, "children": []
+            }]
+        }, {
+          "id": "Z230", "text": "cheese taste tasted grilled cream tomato rest", "data": {"name": "Z230", "level": 2, "percentage": 0.098}, "children": [{
+              "id": "Z190", "text": "taste tasted rest average barely", "data": {"name": "Z190", "level": 1, "percentage": 0.053}, "children": []
+            }, {
+              "id": "Z191", "text": "cheese grilled cream tomato", "data": {"name": "Z191", "level": 1, "percentage": 0.055}, "children": []
+            }]
+        }, {
+          "id": "Z231", "text": "friends friend group party family kids", "data": {"name": "Z231", "level": 2, "percentage": 0.182}, "children": [{
+              "id": "Z192", "text": "friends friend group", "data": {"name": "Z192", "level": 1, "percentage": 0.06}, "children": []
+            }, {
+              "id": "Z193", "text": "party family kids", "data": {"name": "Z193", "level": 1, "percentage": 0.064}, "children": []
+            }]
+        }, {
+          "id": "Z233", "text": "salad lunch dressing meals salads desserts specials", "data": {"name": "Z233", "level": 2, "percentage": 0.058}, "children": [{
+              "id": "Z198", "text": "dressing salad", "data": {"name": "Z198", "level": 1, "percentage": 0.054}, "children": []
+            }, {
+              "id": "Z199", "text": "meals salads desserts fancy mom basic forever", "data": {"name": "Z199", "level": 1, "percentage": 0.107}, "children": []
+            }, {
+              "id": "Z197", "text": "lunch specials", "data": {"name": "Z197", "level": 1, "percentage": 0.066}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z310", "text": "sauce chicken rice sweet fried red green", "data": {"name": "Z310", "level": 3, "percentage": 0.11}, "children": [{
+          "id": "Z234", "text": "sweet fried red green fish potato beans", "data": {"name": "Z234", "level": 2, "percentage": 0.083}, "children": [{
+              "id": "Z1101", "text": "red green beans", "data": {"name": "Z1101", "level": 1, "percentage": 0.029}, "children": []
+            }, {
+              "id": "Z1104", "text": "fried fish white deep including", "data": {"name": "Z1104", "level": 1, "percentage": 0.024}, "children": []
+            }, {
+              "id": "Z1102", "text": "potato sweet", "data": {"name": "Z1102", "level": 1, "percentage": 0.051}, "children": []
+            }, {
+              "id": "Z1103", "text": "oil salt pepper seasoned change", "data": {"name": "Z1103", "level": 1, "percentage": 0.057}, "children": []
+            }, {
+              "id": "Z1100", "text": "tea milk", "data": {"name": "Z1100", "level": 1, "percentage": 0.027}, "children": []
+            }]
+        }, {
+          "id": "Z235", "text": "sauce chicken rice bland curry texture flavors", "data": {"name": "Z235", "level": 2, "percentage": 0.111}, "children": [{
+              "id": "Z1106", "text": "sauce chicken rice", "data": {"name": "Z1106", "level": 1, "percentage": 0.08}, "children": []
+            }, {
+              "id": "Z1107", "text": "bland texture orange fried-rice juice", "data": {"name": "Z1107", "level": 1, "percentage": 0.025}, "children": []
+            }, {
+              "id": "Z1105", "text": "curry flavors lamb ice-cream indian unique", "data": {"name": "Z1105", "level": 1, "percentage": 0.045}, "children": []
+            }]
+        }, {
+          "id": "Z236", "text": "wine glass start finish bottle ended recommended", "data": {"name": "Z236", "level": 2, "percentage": 0.059}, "children": [{
+              "id": "Z1109", "text": "wine glass bottle ended", "data": {"name": "Z1109", "level": 1, "percentage": 0.036}, "children": []
+            }, {
+              "id": "Z1110", "text": "start finish", "data": {"name": "Z1110", "level": 1, "percentage": 0.036}, "children": []
+            }, {
+              "id": "Z1108", "text": "highly recommended", "data": {"name": "Z1108", "level": 1, "percentage": 0.029}, "children": []
+            }]
+        }, {
+          "id": "Z237", "text": "pizza crust italian pasta thin toppings pizzas", "data": {"name": "Z237", "level": 2, "percentage": 0.028}, "children": [{
+              "id": "Z1112", "text": "italian pasta cook tasting", "data": {"name": "Z1112", "level": 1, "percentage": 0.016}, "children": []
+            }, {
+              "id": "Z1113", "text": "pizzas pie casual case lol shot lived", "data": {"name": "Z1113", "level": 1, "percentage": 0.01}, "children": []
+            }, {
+              "id": "Z1111", "text": "pizza crust thin toppings", "data": {"name": "Z1111", "level": 1, "percentage": 0.013}, "children": []
+            }]
+        }, {
+          "id": "Z238", "text": "reasonable price prices worth expensive fair pricey", "data": {"name": "Z238", "level": 2, "percentage": 0.127}, "children": [{
+              "id": "Z1114", "text": "price worth fair expensive pricey totally checking", "data": {"name": "Z1114", "level": 1, "percentage": 0.269}, "children": []
+            }, {
+              "id": "Z1115", "text": "prices reasonable", "data": {"name": "Z1115", "level": 1, "percentage": 0.075}, "children": []
+            }]
+        }, {
+          "id": "Z239", "text": "store buy bought stores find products buying", "data": {"name": "Z239", "level": 2, "percentage": 0.055}, "children": [{
+              "id": "Z1116", "text": "store buy bought stores buying sell bag", "data": {"name": "Z1116", "level": 1, "percentage": 0.059}, "children": []
+            }, {
+              "id": "Z1117", "text": "products product brand fixed", "data": {"name": "Z1117", "level": 1, "percentage": 0.04}, "children": []
+            }, {
+              "id": "Z1118", "text": "hard find", "data": {"name": "Z1118", "level": 1, "percentage": 0.1}, "children": []
+            }]
+        }]
+    }]
+}, {
+  "id": "Z46", "text": "cooked delicious meat fresh tasty perfectly bacon", "data": {"name": "Z46", "level": 4, "percentage": 0.151}, "children": [{
+      "id": "Z315", "text": "cooked delicious meat fresh tasty perfectly tender", "data": {"name": "Z315", "level": 3, "percentage": 0.139}, "children": [{
+          "id": "Z251", "text": "delicious fresh tasty flavorful garlic perfect creamy", "data": {"name": "Z251", "level": 2, "percentage": 0.169}, "children": [{
+              "id": "Z1155", "text": "tasty flavorful garlic perfect creamy butter filling", "data": {"name": "Z1155", "level": 1, "percentage": 0.094}, "children": []
+            }, {
+              "id": "Z1154", "text": "fresh delicious", "data": {"name": "Z1154", "level": 1, "percentage": 0.156}, "children": []
+            }]
+        }, {
+          "id": "Z250", "text": "cooked meat perfectly tender juicy medium perfection", "data": {"name": "Z250", "level": 2, "percentage": 0.067}, "children": [{
+              "id": "Z1153", "text": "cooked meat perfectly tender juicy perfection meats", "data": {"name": "Z1153", "level": 1, "percentage": 0.075}, "children": []
+            }, {
+              "id": "Z1152", "text": "rare medium", "data": {"name": "Z1152", "level": 1, "percentage": 0.015}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z316", "text": "bacon crispy eggs fries burger breakfast french", "data": {"name": "Z316", "level": 3, "percentage": 0.098}, "children": [{
+          "id": "Z253", "text": "bacon crispy french onions toast sausage bun", "data": {"name": "Z253", "level": 2, "percentage": 0.044}, "children": [{
+              "id": "Z1158", "text": "bacon crispy onions sausage bun gravy duck", "data": {"name": "Z1158", "level": 1, "percentage": 0.071}, "children": []
+            }, {
+              "id": "Z1160", "text": "toast french", "data": {"name": "Z1160", "level": 1, "percentage": 0.019}, "children": []
+            }, {
+              "id": "Z1159", "text": "morning early", "data": {"name": "Z1159", "level": 1, "percentage": 0.037}, "children": []
+            }]
+        }, {
+          "id": "Z252", "text": "eggs breakfast pancakes waffles waffle fried-chicken", "data": {"name": "Z252", "level": 2, "percentage": 0.047}, "children": [{
+              "id": "Z1156", "text": "waffles waffle fried-chicken", "data": {"name": "Z1156", "level": 1, "percentage": 0.012}, "children": []
+            }, {
+              "id": "Z1157", "text": "eggs breakfast pancakes", "data": {"name": "Z1157", "level": 1, "percentage": 0.031}, "children": []
+            }]
+        }, {
+          "id": "Z254", "text": "fries burger burgers beer selection beers", "data": {"name": "Z254", "level": 2, "percentage": 0.08}, "children": [{
+              "id": "Z1161", "text": "fries burger burgers", "data": {"name": "Z1161", "level": 1, "percentage": 0.036}, "children": []
+            }, {
+              "id": "Z1162", "text": "beer selection beers", "data": {"name": "Z1162", "level": 1, "percentage": 0.066}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z319", "text": "bar drinks drink bartender sat game games", "data": {"name": "Z319", "level": 3, "percentage": 0.095}, "children": [{
+          "id": "Z261", "text": "bar drinks drink bartender sat", "data": {"name": "Z261", "level": 2, "percentage": 0.089}, "children": [{
+              "id": "Z1182", "text": "bar bartender sat", "data": {"name": "Z1182", "level": 1, "percentage": 0.02}, "children": []
+            }, {
+              "id": "Z1181", "text": "drink drinks", "data": {"name": "Z1181", "level": 1, "percentage": 0.091}, "children": []
+            }]
+        }, {
+          "id": "Z262", "text": "game games watch play means window shows", "data": {"name": "Z262", "level": 2, "percentage": 0.044}, "children": [{
+              "id": "Z1184", "text": "means window shows heat joint building complaint", "data": {"name": "Z1184", "level": 1, "percentage": 0.058}, "children": []
+            }, {
+              "id": "Z1183", "text": "game watch games play", "data": {"name": "Z1183", "level": 1, "percentage": 0.042}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z317", "text": "chips tacos salsa taco mexican mexican-food burrito", "data": {"name": "Z317", "level": 3, "percentage": 0.035}, "children": [{
+          "id": "Z255", "text": "chips salsa mexican mexican-food american loved bigger", "data": {"name": "Z255", "level": 2, "percentage": 0.018}, "children": [{
+              "id": "Z1163", "text": "chips salsa", "data": {"name": "Z1163", "level": 1, "percentage": 0.026}, "children": []
+            }, {
+              "id": "Z1164", "text": "mexican mexican-food american loved bigger", "data": {"name": "Z1164", "level": 1, "percentage": 0.008}, "children": []
+            }]
+        }, {
+          "id": "Z256", "text": "tacos taco burrito nachos share greasy smoked", "data": {"name": "Z256", "level": 2, "percentage": 0.036}, "children": [{
+              "id": "Z1165", "text": "burrito nachos share greasy smoked slice stopped", "data": {"name": "Z1165", "level": 1, "percentage": 0.04}, "children": []
+            }, {
+              "id": "Z1166", "text": "tacos taco", "data": {"name": "Z1166", "level": 1, "percentage": 0.025}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z318", "text": "hotel room strip rooms stay stayed casino", "data": {"name": "Z318", "level": 3, "percentage": 0.039}, "children": [{
+          "id": "Z258", "text": "strip vegas parking clean pretty located pool", "data": {"name": "Z258", "level": 2, "percentage": 0.069}, "children": [{
+              "id": "Z1173", "text": "pool area walk center shopping", "data": {"name": "Z1173", "level": 1, "percentage": 0.071}, "children": []
+            }, {
+              "id": "Z1169", "text": "strip vegas located mall west", "data": {"name": "Z1169", "level": 1, "percentage": 0.044}, "children": []
+            }, {
+              "id": "Z1172", "text": "clean bathroom hotels modern nights decor gym", "data": {"name": "Z1172", "level": 1, "percentage": 0.049}, "children": []
+            }, {
+              "id": "Z1170", "text": "parking free park", "data": {"name": "Z1170", "level": 1, "percentage": 0.024}, "children": []
+            }, {
+              "id": "Z1171", "text": "station buffet", "data": {"name": "Z1171", "level": 1, "percentage": 0.025}, "children": []
+            }, {
+              "id": "Z1175", "text": "front-desk booked fee guests book website online", "data": {"name": "Z1175", "level": 1, "percentage": 0.035}, "children": []
+            }, {
+              "id": "Z1174", "text": "pretty water cool standard", "data": {"name": "Z1174", "level": 1, "percentage": 0.121}, "children": []
+            }]
+        }, {
+          "id": "Z259", "text": "casino staying view trip part security airport", "data": {"name": "Z259", "level": 2, "percentage": 0.044}, "children": [{
+              "id": "Z1177", "text": "casino staying view security airport", "data": {"name": "Z1177", "level": 1, "percentage": 0.043}, "children": []
+            }, {
+              "id": "Z1176", "text": "trip part regular similar compared school system", "data": {"name": "Z1176", "level": 1, "percentage": 0.074}, "children": []
+            }]
+        }, {
+          "id": "Z260", "text": "location convenient downtown locations starbucks coffee sit", "data": {"name": "Z260", "level": 2, "percentage": 0.06}, "children": [{
+              "id": "Z1178", "text": "location convenient locations honestly expecting", "data": {"name": "Z1178", "level": 1, "percentage": 0.087}, "children": []
+            }, {
+              "id": "Z1179", "text": "downtown sit phoenix slightly hold higher toronto", "data": {"name": "Z1179", "level": 1, "percentage": 0.078}, "children": []
+            }, {
+              "id": "Z1180", "text": "coffee starbucks", "data": {"name": "Z1180", "level": 1, "percentage": 0.037}, "children": []
+            }]
+        }, {
+          "id": "Z257", "text": "room hotel rooms stay stayed bed spa", "data": {"name": "Z257", "level": 2, "percentage": 0.036}, "children": [{
+              "id": "Z1167", "text": "room hotel rooms stay stayed bed", "data": {"name": "Z1167", "level": 1, "percentage": 0.035}, "children": []
+            }, {
+              "id": "Z1168", "text": "massage spa", "data": {"name": "Z1168", "level": 1, "percentage": 0.014}, "children": []
+            }]
+        }]
+    }]
+}, {
+  "id": "Z44", "text": "minutes people decided give wait experience waiting", "data": {"name": "Z44", "level": 4, "percentage": 0.135}, "children": [{
+      "id": "Z312", "text": "decided give experience reviews review check star", "data": {"name": "Z312", "level": 3, "percentage": 0.169}, "children": [{
+          "id": "Z243", "text": "decided give check star fact due rating", "data": {"name": "Z243", "level": 2, "percentage": 0.154}, "children": [{
+              "id": "Z1134", "text": "decided give check star", "data": {"name": "Z1134", "level": 1, "percentage": 0.209}, "children": []
+            }, {
+              "id": "Z1133", "text": "fact due rating lack middle notice asian", "data": {"name": "Z1133", "level": 1, "percentage": 0.141}, "children": []
+            }]
+        }, {
+          "id": "Z242", "text": "experience review service visit dining floor portion", "data": {"name": "Z242", "level": 2, "percentage": 0.124}, "children": [{
+              "id": "Z1124", "text": "dining experience", "data": {"name": "Z1124", "level": 1, "percentage": 0.114}, "children": []
+            }, {
+              "id": "Z1132", "text": "extra cut added add space touch additional", "data": {"name": "Z1132", "level": 1, "percentage": 0.068}, "children": []
+            }, {
+              "id": "Z1127", "text": "restaurants close choose plenty lots variety glasses", "data": {"name": "Z1127", "level": 1, "percentage": 0.142}, "children": []
+            }, {
+              "id": "Z1123", "text": "write review", "data": {"name": "Z1123", "level": 1, "percentage": 0.046}, "children": []
+            }, {
+              "id": "Z1126", "text": "visit visited special oysters solid cheap outstanding", "data": {"name": "Z1126", "level": 1, "percentage": 0.085}, "children": []
+            }, {
+              "id": "Z1130", "text": "portion size", "data": {"name": "Z1130", "level": 1, "percentage": 0.04}, "children": []
+            }, {
+              "id": "Z1125", "text": "service slow excellent coming", "data": {"name": "Z1125", "level": 1, "percentage": 0.184}, "children": []
+            }, {
+              "id": "Z1129", "text": "seating patio outdoor nice", "data": {"name": "Z1129", "level": 1, "percentage": 0.044}, "children": []
+            }, {
+              "id": "Z1128", "text": "dance floor", "data": {"name": "Z1128", "level": 1, "percentage": 0.022}, "children": []
+            }, {
+              "id": "Z1131", "text": "shop shops dress wedding", "data": {"name": "Z1131", "level": 1, "percentage": 0.057}, "children": []
+            }]
+        }, {
+          "id": "Z244", "text": "reviews yelp found read based", "data": {"name": "Z244", "level": 2, "percentage": 0.062}, "children": [{
+              "id": "Z1135", "text": "yelp found based", "data": {"name": "Z1135", "level": 1, "percentage": 0.048}, "children": []
+            }, {
+              "id": "Z1136", "text": "reviews read", "data": {"name": "Z1136", "level": 1, "percentage": 0.047}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z311", "text": "minutes people wait waiting long waited full", "data": {"name": "Z311", "level": 3, "percentage": 0.123}, "children": [{
+          "id": "Z240", "text": "people wait long person watching", "data": {"name": "Z240", "level": 2, "percentage": 0.157}, "children": [{
+              "id": "Z1120", "text": "people person watching", "data": {"name": "Z1120", "level": 1, "percentage": 0.102}, "children": []
+            }, {
+              "id": "Z1119", "text": "long wait", "data": {"name": "Z1119", "level": 1, "percentage": 0.115}, "children": []
+            }]
+        }, {
+          "id": "Z241", "text": "minutes waiting waited full amount sign ordering", "data": {"name": "Z241", "level": 2, "percentage": 0.098}, "children": [{
+              "id": "Z1122", "text": "full amount sign ordering paying hand piece", "data": {"name": "Z1122", "level": 1, "percentage": 0.106}, "children": []
+            }, {
+              "id": "Z1121", "text": "minutes waiting waited", "data": {"name": "Z1121", "level": 1, "percentage": 0.077}, "children": []
+            }]
+        }]
+    }]
+}, {
+  "id": "Z45", "text": "told asked called wanted left night finally", "data": {"name": "Z45", "level": 4, "percentage": 0.123}, "children": [{
+      "id": "Z313", "text": "asked wanted night left walked manager money", "data": {"name": "Z313", "level": 3, "percentage": 0.118}, "children": [{
+          "id": "Z246", "text": "asked wanted left walked immediately greeted checked", "data": {"name": "Z246", "level": 2, "percentage": 0.108}, "children": [{
+              "id": "Z1141", "text": "wanted asked", "data": {"name": "Z1141", "level": 1, "percentage": 0.108}, "children": []
+            }, {
+              "id": "Z1142", "text": "checked issues attention mine picked wife choice", "data": {"name": "Z1142", "level": 1, "percentage": 0.06}, "children": []
+            }, {
+              "id": "Z1144", "text": "left walked immediately greeted feeling", "data": {"name": "Z1144", "level": 1, "percentage": 0.091}, "children": []
+            }, {
+              "id": "Z1143", "text": "hear literally owner impressed eaten crazy fairly", "data": {"name": "Z1143", "level": 1, "percentage": 0.11}, "children": []
+            }]
+        }, {
+          "id": "Z245", "text": "manager money pay rude customer-service charge leave", "data": {"name": "Z245", "level": 2, "percentage": 0.084}, "children": [{
+              "id": "Z1138", "text": "lady young", "data": {"name": "Z1138", "level": 1, "percentage": 0.027}, "children": []
+            }, {
+              "id": "Z1137", "text": "manager pay rude customer-service charge horrible working", "data": {"name": "Z1137", "level": 1, "percentage": 0.089}, "children": []
+            }, {
+              "id": "Z1139", "text": "leave worst tip life cash ice desert", "data": {"name": "Z1139", "level": 1, "percentage": 0.036}, "children": []
+            }, {
+              "id": "Z1140", "text": "money waste save", "data": {"name": "Z1140", "level": 1, "percentage": 0.045}, "children": []
+            }]
+        }, {
+          "id": "Z247", "text": "night friday late saturday open busy evening", "data": {"name": "Z247", "level": 2, "percentage": 0.151}, "children": [{
+              "id": "Z1145", "text": "night late friday open", "data": {"name": "Z1145", "level": 1, "percentage": 0.145}, "children": []
+            }, {
+              "id": "Z1146", "text": "packed girls ladies stand return simply disappointed", "data": {"name": "Z1146", "level": 1, "percentage": 0.086}, "children": []
+            }, {
+              "id": "Z1147", "text": "saturday busy evening crowd fun super rush", "data": {"name": "Z1147", "level": 1, "percentage": 0.134}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z314", "text": "told called finally gave front door guy", "data": {"name": "Z314", "level": 3, "percentage": 0.102}, "children": [{
+          "id": "Z249", "text": "finally gave guy worked thinking closed excited", "data": {"name": "Z249", "level": 2, "percentage": 0.245}, "children": [{
+              "id": "Z1150", "text": "finally gave guy worked", "data": {"name": "Z1150", "level": 1, "percentage": 0.164}, "children": []
+            }, {
+              "id": "Z1151", "text": "thinking closed excited pieces tiny street sad", "data": {"name": "Z1151", "level": 1, "percentage": 0.074}, "children": []
+            }]
+        }, {
+          "id": "Z248", "text": "told called front door counter", "data": {"name": "Z248", "level": 2, "percentage": 0.138}, "children": [{
+              "id": "Z1148", "text": "front door counter", "data": {"name": "Z1148", "level": 1, "percentage": 0.044}, "children": []
+            }, {
+              "id": "Z1149", "text": "called told", "data": {"name": "Z1149", "level": 1, "percentage": 0.094}, "children": []
+            }]
+        }]
+    }]
+}, {
+  "id": "Z41", "text": "time made back make call day put", "data": {"name": "Z41", "level": 4, "percentage": 0.198}, "children": [{
+      "id": "Z32", "text": "made make put thought things needed feel", "data": {"name": "Z32", "level": 3, "percentage": 0.181}, "children": [{
+          "id": "Z25", "text": "made make put thought things needed top", "data": {"name": "Z25", "level": 2, "percentage": 0.178}, "children": [{
+              "id": "Z114", "text": "made make put thought things needed top", "data": {"name": "Z114", "level": 1, "percentage": 0.17}, "children": []
+            }, {
+              "id": "Z113", "text": "understand word conversation true mouth living interesting", "data": {"name": "Z113", "level": 1, "percentage": 0.076}, "children": []
+            }]
+        }, {
+          "id": "Z24", "text": "lot high guess changed lost longer management", "data": {"name": "Z24", "level": 2, "percentage": 0.063}, "children": [{
+              "id": "Z112", "text": "guess changed lost longer management minute month", "data": {"name": "Z112", "level": 1, "percentage": 0.054}, "children": []
+            }, {
+              "id": "Z110", "text": "lot places spent", "data": {"name": "Z110", "level": 1, "percentage": 0.082}, "children": []
+            }, {
+              "id": "Z111", "text": "high quality expectations set weird", "data": {"name": "Z111", "level": 1, "percentage": 0.059}, "children": []
+            }]
+        }, {
+          "id": "Z27", "text": "line card short credit bottom story rib", "data": {"name": "Z27", "level": 2, "percentage": 0.08}, "children": [{
+              "id": "Z117", "text": "line bottom", "data": {"name": "Z117", "level": 1, "percentage": 0.039}, "children": []
+            }, {
+              "id": "Z126", "text": "town showed informed forward scottsdale positive monday", "data": {"name": "Z126", "level": 1, "percentage": 0.084}, "children": []
+            }, {
+              "id": "Z122", "text": "situation matter frozen raw kinda cakes glad", "data": {"name": "Z122", "level": 1, "percentage": 0.076}, "children": []
+            }, {
+              "id": "Z119", "text": "short story", "data": {"name": "Z119", "level": 1, "percentage": 0.027}, "children": []
+            }, {
+              "id": "Z118", "text": "card credit", "data": {"name": "Z118", "level": 1, "percentage": 0.021}, "children": []
+            }, {
+              "id": "Z120", "text": "rib eye", "data": {"name": "Z120", "level": 1, "percentage": 0.016}, "children": []
+            }, {
+              "id": "Z121", "text": "dogs dog", "data": {"name": "Z121", "level": 1, "percentage": 0.018}, "children": []
+            }, {
+              "id": "Z125", "text": "gem hidden", "data": {"name": "Z125", "level": 1, "percentage": 0.014}, "children": []
+            }, {
+              "id": "Z124", "text": "great-service great-food onion lettuce foods shared yum", "data": {"name": "Z124", "level": 1, "percentage": 0.117}, "children": []
+            }, {
+              "id": "Z123", "text": "good-service good-food clear", "data": {"name": "Z123", "level": 1, "percentage": 0.007}, "children": []
+            }]
+        }, {
+          "id": "Z26", "text": "feel face light comfortable makes smile dark", "data": {"name": "Z26", "level": 2, "percentage": 0.13}, "children": [{
+              "id": "Z115", "text": "face light smile dark skin", "data": {"name": "Z115", "level": 1, "percentage": 0.034}, "children": []
+            }, {
+              "id": "Z116", "text": "feel comfortable makes", "data": {"name": "Z116", "level": 1, "percentage": 0.072}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z33", "text": "time times hour business big couple point", "data": {"name": "Z33", "level": 3, "percentage": 0.175}, "children": [{
+          "id": "Z28", "text": "time hour business big point stars half", "data": {"name": "Z28", "level": 2, "percentage": 0.133}, "children": [{
+              "id": "Z128", "text": "time hour half", "data": {"name": "Z128", "level": 1, "percentage": 0.094}, "children": []
+            }, {
+              "id": "Z130", "text": "business hours week hope bring apparently run", "data": {"name": "Z130", "level": 1, "percentage": 0.104}, "children": []
+            }, {
+              "id": "Z129", "text": "wrong happened talking mistake supposed idea note", "data": {"name": "Z129", "level": 1, "percentage": 0.056}, "children": []
+            }, {
+              "id": "Z133", "text": "home spoke ahead happy reservations provided important", "data": {"name": "Z133", "level": 1, "percentage": 0.052}, "children": []
+            }, {
+              "id": "Z127", "text": "big end deal noticed", "data": {"name": "Z127", "level": 1, "percentage": 0.127}, "children": []
+            }, {
+              "id": "Z131", "text": "year completely cost purchase show woman purchased", "data": {"name": "Z131", "level": 1, "percentage": 0.064}, "children": []
+            }, {
+              "id": "Z134", "text": "point offer drive stop parking-lot road dry", "data": {"name": "Z134", "level": 1, "percentage": 0.076}, "children": []
+            }, {
+              "id": "Z132", "text": "customers customer employee employees", "data": {"name": "Z132", "level": 1, "percentage": 0.035}, "children": []
+            }, {
+              "id": "Z136", "text": "stars reason giving", "data": {"name": "Z136", "level": 1, "percentage": 0.035}, "children": []
+            }, {
+              "id": "Z135", "text": "car cars vehicle ride", "data": {"name": "Z135", "level": 1, "percentage": 0.027}, "children": []
+            }]
+        }, {
+          "id": "Z29", "text": "times couple past years multiple weekend enjoy", "data": {"name": "Z29", "level": 2, "percentage": 0.161}, "children": [{
+              "id": "Z137", "text": "times couple multiple", "data": {"name": "Z137", "level": 1, "percentage": 0.081}, "children": []
+            }, {
+              "id": "Z138", "text": "past years weekend enjoy love", "data": {"name": "Z138", "level": 1, "percentage": 0.076}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z31", "text": "back call day phone arrived started looked", "data": {"name": "Z31", "level": 3, "percentage": 0.12}, "children": [{
+          "id": "Z22", "text": "arrived started problem days knew offered entire", "data": {"name": "Z22", "level": 2, "percentage": 0.123}, "children": [{
+              "id": "Z15", "text": "started offered pick returned head mentioned single", "data": {"name": "Z15", "level": 1, "percentage": 0.072}, "children": []
+            }, {
+              "id": "Z14", "text": "arrived problem fix", "data": {"name": "Z14", "level": 1, "percentage": 0.018}, "children": []
+            }, {
+              "id": "Z13", "text": "turned telling leaving opened establishment anymore original", "data": {"name": "Z13", "level": 1, "percentage": 0.048}, "children": []
+            }, {
+              "id": "Z16", "text": "days knew entire issue treated boyfriend disappointing", "data": {"name": "Z16", "level": 1, "percentage": 0.053}, "children": []
+            }]
+        }, {
+          "id": "Z23", "text": "back day looked felt ago weeks months", "data": {"name": "Z23", "level": 2, "percentage": 0.12}, "children": [{
+              "id": "Z17", "text": "speak included chance break negative ridiculous pictures", "data": {"name": "Z17", "level": 1, "percentage": 0.088}, "children": []
+            }, {
+              "id": "Z18", "text": "back day looked felt", "data": {"name": "Z18", "level": 1, "percentage": 0.16}, "children": []
+            }, {
+              "id": "Z19", "text": "ago weeks months", "data": {"name": "Z19", "level": 1, "percentage": 0.033}, "children": []
+            }]
+        }, {
+          "id": "Z21", "text": "call phone work company number job process", "data": {"name": "Z21", "level": 2, "percentage": 0.059}, "children": [{
+              "id": "Z11", "text": "call phone number", "data": {"name": "Z11", "level": 1, "percentage": 0.027}, "children": []
+            }, {
+              "id": "Z12", "text": "work company job process professional house repair", "data": {"name": "Z12", "level": 1, "percentage": 0.057}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z34", "text": "received staff questions office care answer helpful", "data": {"name": "Z34", "level": 3, "percentage": 0.131}, "children": [{
+          "id": "Z211", "text": "received questions answer email doctor patient met", "data": {"name": "Z211", "level": 2, "percentage": 0.057}, "children": [{
+              "id": "Z142", "text": "met helped honest trust personal general years-ago", "data": {"name": "Z142", "level": 1, "percentage": 0.087}, "children": []
+            }, {
+              "id": "Z143", "text": "received questions answer email patient doctor schedule", "data": {"name": "Z143", "level": 1, "percentage": 0.057}, "children": []
+            }, {
+              "id": "Z144", "text": "poor services request team simple recommend opinion", "data": {"name": "Z144", "level": 1, "percentage": 0.083}, "children": []
+            }]
+        }, {
+          "id": "Z210", "text": "staff office care appointment helpful friendly great", "data": {"name": "Z210", "level": 2, "percentage": 0.195}, "children": [{
+              "id": "Z139", "text": "staff office care helpful appointment friendly", "data": {"name": "Z139", "level": 1, "percentage": 0.178}, "children": []
+            }, {
+              "id": "Z140", "text": "great wonderful absolutely beautiful amazing fantastic husband", "data": {"name": "Z140", "level": 1, "percentage": 0.298}, "children": []
+            }, {
+              "id": "Z141", "text": "easy insurance fine previous level covered filled", "data": {"name": "Z141", "level": 1, "percentage": 0.085}, "children": []
+            }]
+        }]
+    }]
+}, {
+  "id": "Z42", "text": "menu restaurant dish dinner dishes spicy shrimp", "data": {"name": "Z42", "level": 4, "percentage": 0.156}, "children": [{
+      "id": "Z36", "text": "menu restaurant thing items bad appetizers entrees", "data": {"name": "Z36", "level": 3, "percentage": 0.12}, "children": [{
+          "id": "Z216", "text": "thing bad kind servers expect mind real", "data": {"name": "Z216", "level": 2, "percentage": 0.125}, "children": [{
+              "id": "Z155", "text": "thing bad kind expect mind", "data": {"name": "Z155", "level": 1, "percentage": 0.125}, "children": []
+            }, {
+              "id": "Z154", "text": "servers real making authentic talk extremely explained", "data": {"name": "Z154", "level": 1, "percentage": 0.115}, "children": []
+            }]
+        }, {
+          "id": "Z215", "text": "menu restaurant items appetizers entrees item", "data": {"name": "Z215", "level": 2, "percentage": 0.105}, "children": [{
+              "id": "Z152", "text": "menu restaurant items item", "data": {"name": "Z152", "level": 1, "percentage": 0.107}, "children": []
+            }, {
+              "id": "Z153", "text": "appetizers entrees", "data": {"name": "Z153", "level": 1, "percentage": 0.019}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z35", "text": "dish dishes spicy soup flavor beef portions", "data": {"name": "Z35", "level": 3, "percentage": 0.108}, "children": [{
+          "id": "Z213", "text": "dish dishes chinese style mixed traditional typical", "data": {"name": "Z213", "level": 2, "percentage": 0.055}, "children": [{
+              "id": "Z149", "text": "style mixed traditional typical flat box tonight", "data": {"name": "Z149", "level": 1, "percentage": 0.076}, "children": []
+            }, {
+              "id": "Z148", "text": "dish dishes chinese", "data": {"name": "Z148", "level": 1, "percentage": 0.05}, "children": []
+            }]
+        }, {
+          "id": "Z212", "text": "spicy soup flavor beef noodles egg broth", "data": {"name": "Z212", "level": 2, "percentage": 0.064}, "children": [{
+              "id": "Z147", "text": "spicy flavor tuna salmon spice", "data": {"name": "Z147", "level": 1, "percentage": 0.067}, "children": []
+            }, {
+              "id": "Z145", "text": "egg vegetables sour tofu basically smaller priced", "data": {"name": "Z145", "level": 1, "percentage": 0.05}, "children": []
+            }, {
+              "id": "Z146", "text": "soup beef noodles broth noodle pho", "data": {"name": "Z146", "level": 1, "percentage": 0.029}, "children": []
+            }]
+        }, {
+          "id": "Z214", "text": "portions huge small large fan generous", "data": {"name": "Z214", "level": 2, "percentage": 0.139}, "children": [{
+              "id": "Z150", "text": "portions small large generous", "data": {"name": "Z150", "level": 1, "percentage": 0.125}, "children": []
+            }, {
+              "id": "Z151", "text": "huge fan", "data": {"name": "Z151", "level": 1, "percentage": 0.062}, "children": []
+            }]
+        }]
+    }, {
+      "id": "Z37", "text": "dinner shrimp waiter crab enjoyed seafood lobster", "data": {"name": "Z37", "level": 3, "percentage": 0.068}, "children": [{
+          "id": "Z218", "text": "dinner shrimp waiter crab enjoyed seafood lobster", "data": {"name": "Z218", "level": 2, "percentage": 0.07}, "children": [{
+              "id": "Z158", "text": "dinner waiter enjoyed type_ ambiance", "data": {"name": "Z158", "level": 1, "percentage": 0.049}, "children": []
+            }, {
+              "id": "Z159", "text": "ramen wrap actual bunch place-good dollars fabulous", "data": {"name": "Z159", "level": 1, "percentage": 0.01}, "children": []
+            }, {
+              "id": "Z160", "text": "shrimp crab seafood lobster calamari cocktail", "data": {"name": "Z160", "level": 1, "percentage": 0.027}, "children": []
+            }]
+        }, {
+          "id": "Z217", "text": "sunday brunch ready birthday afternoon mins", "data": {"name": "Z217", "level": 2, "percentage": 0.03}, "children": [{
+              "id": "Z157", "text": "ready birthday mins", "data": {"name": "Z157", "level": 1, "percentage": 0.079}, "children": []
+            }, {
+              "id": "Z156", "text": "sunday brunch afternoon", "data": {"name": "Z156", "level": 1, "percentage": 0.025}, "children": []
+            }]
+        }]
+    }]
+}
+]
